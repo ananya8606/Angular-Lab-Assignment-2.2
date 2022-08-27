@@ -1,5 +1,8 @@
 # LabAssignmentAngular22
 
+https://user-images.githubusercontent.com/52853286/187017187-9e9f3103-5c86-4d37-98de-b17aeaf5874f.mp4
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
 ## Development server
