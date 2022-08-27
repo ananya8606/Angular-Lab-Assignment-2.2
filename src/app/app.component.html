@@ -1,0 +1,4 @@
+<table>
+  <tr><th><button (click)="onclickID()" >ID</button></th><th><button (click)="onclickName()" >NAME</button></th><th><button (click)="onclickSal()" >SALARY</button></th><th><button (click)="onclickDep()" >DEPARTMENT</button></th></tr>
+  <tr *ngFor="let emp of Employeedetails"><td>{{emp.empId}}</td><td>{{emp.empName}}</td><td>{{emp.empSal}}</td><td>{{emp.empDep}}</td></tr>
+</table>
